@@ -1,2 +1,2 @@
 # Summer_Project
-This repository contains whole research woke done by me for my summer project.
+This repository contains whole research work done by me for my summer project.
